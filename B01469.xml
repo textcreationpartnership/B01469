@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Additional information for John Abernethy of Mayen, against John Gordon of Rothemay.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01469</idno>
+            <idno type="STC">Wing A534A</idno>
+            <idno type="STC">ESTC R170060</idno>
+            <idno type="EEBO-CITATION">52529134</idno>
+            <idno type="OCLC">ocm 52529134</idno>
+            <idno type="VID">178693</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01469)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178693)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2766:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Additional information for John Abernethy of Mayen, against John Gordon of Rothemay.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Abernethie, John, --  of Mayen --  Trials, litigation, etc.</term>
+               <term>Gordon, John, --  Sir, d. 1713 --  Trials, litigation, etc.</term>
+               <term>Claims against decedents' estates --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:178693:1" rendition="simple:additions"/>
+            <head>
+               <hi>ADDITIONAL INFORMATION</hi> For <hi>John Abernethy</hi>of <hi>Mayen,</hi> Againſt <hi>John Gordon</hi> of <hi>Rothemay.</hi>
+            </head>
+            <p>
+               <hi>ROthemay</hi> being conſcious to himſelf, that as to the caſe in general, an Heir cannot in Law be found lyable for Damages, ariſing by his Predeceſſors Deed, when the Crime was not cognoſced againſt the Predeceſſor in his own time: <hi>Mayen</hi> is informed that <hi>Rothemay</hi> has given in a Petition to the Parliament, pretending that there is a ſpe<g ref="char:EOLhyphen"/>ciality in this caſe, for making of <hi>Mayen</hi> as Heir lyable. and the ſpeciality that he fixes upon is, that <hi>James Abernethy</hi> his alleged tearing of the Leaves out of the Regiſter, was a Thift, and that <hi>Alexander Abernethy</hi> was a Reſetter by concealing them, and that by the Civil Law the ta<g ref="char:EOLhyphen"/>king away of Writs and Securities is eſteemed Thift, and the away-takers a Theef; and that he ſhal be lyable for the Damage not only as to the Value of the Write taken away, but like<g ref="char:EOLhyphen"/>wiſe for the Damage and Intereſt of the Partie, as to the value of the Sum contained in the Write. <hi>Leg.</hi> 27. <hi>ff. de furtis. Qui tabulas vel cautiones amovet, furti tenetur, non tantum pratii ipſarum ta<g ref="char:EOLhyphen"/>bularum, verum ejus (quod interfuit, quod ad aſtimationem refertur ejus) ſumma quae in his ta<g ref="char:EOLhyphen"/>bulis continetur, &amp;</hi> Leg. 31, <hi>&amp;</hi> 32. <hi>eod.</hi> And <hi>in condictione furtiva,</hi> which was for recovering of the thing ſtoln, or value of it if not extant; not only the Thief himſelf, but his Heir was ly<g ref="char:EOLhyphen"/>able. <hi>Leg.</hi> 7. <hi>Par.</hi> 2. <hi>ff. de condictione furtiva, condictio rei furtivae quia rei habet perſecutionem hare<g ref="char:EOLhyphen"/>dem quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> furis obligat.</hi>
+            </p>
+            <p>It is anſwered for <hi>Mayen,</hi> 1. The foreſaid Laws <hi>ff. de furtis,</hi> as to the Puniſhment of Thift are gone indeſuetude, as is clear from <hi>Groenwegen, de Legibus abrogatis.</hi> who is one of the Lawyers cited by the Purſuer himſelf. 2. They do not at all meet this caſe, becauſe theſe Laws are only in the caſe of a privat Thift, when a man comes into his neighbours Houſe, and ſteals out a Bond, or Writes of his Lands, and takes the ſamen away, or deſtroys them: But this is not in the caſe of tearing Leaves out of a Publick Regiſter, or Razing the ſamen, for that is <hi>Crimen falſi,</hi> and puniſhable as falſhood, as is clear by the <hi>Leg.</hi> 1.16. <hi>&amp;</hi> 23. <hi>ff. ad legem</hi> Cornelium, <hi>de falſis.</hi> and <hi>L.</hi> 1. <hi>par.</hi> 4. §. and <hi>L.</hi> 16. §. 2. <hi>eod.</hi> And albeit the foreſaid 31 Law <hi>de furtis,</hi> men<g ref="char:EOLhyphen"/>tions likewiſe, <hi>Si quis tabulas inſtrumenterum rei publicae municipi alieujus aut ſubripuerit aut inter<g ref="char:EOLhyphen"/>leverit, eum furti teneri.</hi> It is clear by the gloſs upon that Law, and all the Lawyers that has wri<g ref="char:EOLhyphen"/>ten upon the ſamen, that it is only underſtood of ſuch Writes, <hi>quae ſunt in patrimonio publico,</hi> and are ſtoln from a publick Servant, who has the keeping of them, but not of ſuch Writes <hi>quae ſunt in uſu publico,</hi> ſuch as publick Regiſters: And the tearing, vitiating, or razing of theſe, is by the Civil Law poſitively declared to be <hi>Crimen falſi,</hi> as is clear from the foreſaid Titles, <hi>de falſis,</hi> ſo that the Law cited out of the Title <hi>de furtis,</hi> does not at all concern this caſe.</p>
+            <p n="3">3. It is clear from the Common Law, that <hi>actio furti,</hi> an Action for Theft, is not compe<g ref="char:EOLhyphen"/>tent againſt the Heirs of the Thief. <hi>Par.</hi> 1. <hi>inſtitut. de perpetuis &amp; temporalibus action: Leg.</hi> 1. <hi>ff. de privatis delict. civilis conſtitutio eſt paenalibus actionibus haeredes non teneri nec caeteros, quidem ſuc<g ref="char:EOLhyphen"/>ceſſores id circo; nec furti conveniri poſsunt.</hi> And <hi>Leg.</hi> 15. <hi>cod de furtis, furti actione minime te<g ref="char:EOLhyphen"/>neri ſucceſsores, ignorare non debueras,</hi> and many other Laws to that purpoſe, which being cited in the former Informations shal not be here repeated.</p>
+            <p n="4">4. There are many eminent Lawyers who are of the Opinion, that <hi>in condictione furtiva,</hi> the Heir is not lyable, but in <hi>quantum lucratus,</hi> in ſo far as he reaps Benefit by the Crime. And particularly <hi>Cujacius obſervat. lib:</hi> 7. <hi>tit.</hi> 37. which is founded upon <hi>leg.</hi> 3. <hi>par.</hi> 12. <hi>ff. de pecu<g ref="char:EOLhyphen"/>lio ex furtiva caufa filio quidem familias condici poſſe conſtat: an vero in patrem, vel in dominum de peculio danda eſt Queritur, &amp; est verius, in quantum locupletior Dominus factus eſſet, ex furto
+<pb n="2" facs="tcp:178693:2"/>facto actionem de peculio dandam.</hi> And <hi>leg.</hi> 3. <hi>par: ul: ff: de action: rerum amotar.</hi> And therefore it is moſt agreeable to reaſon, that the foreſaid Law <hi>de condictione furtiva,</hi> ſhould only be un<g ref="char:EOLhyphen"/>derſtood in the Terms of the other Laws, both in relation to that and other Crimes, that the Heir is only lyable <hi>in quantum lucratus,</hi> by the Crime, as the ſamine is agreed upon, by the moſt Eminent Lawyers that ever wrote upon that Subject.</p>
+            <p n="5">5. The Action <hi>ex condictione furtiva,</hi> by the Civil Law can never take place in this caſe. For the effect of the ſaid Action, being to recover the thing ſtollen, or in caſe it was not ex<g ref="char:EOLhyphen"/>tant the value of it; it is clear by the Title in the Civil Law, that if the thing ſtollen was de<g ref="char:EOLhyphen"/>livered back to the Owner, there was no place for the ſaid Action. <hi>Leg.:</hi> 8. <hi>ff. de condiction. furtiv. Si quidem obtulit fur, ſine dubio nulla erat condictio.</hi> And <hi>Leg.</hi> 10 <hi>eod. caeterum namo fu<g ref="char:EOLhyphen"/>rum condictione tenetur, poſt ea quam Dominus poſſesſionem apprehendit.</hi> So that if in this caſe there be no part of the Purſuers Eſtate takenfrom him, by the foreſaid pretended tearing out of the Leaves, or concealing them. But the Decreet of the Lords of Seſſion, Looſing the Interdicti<g ref="char:EOLhyphen"/>on being made up, and the Leaves being ordained to be inſert in the Regiſter, the Matter is entire. And if this caſe would have fallen under the Action <hi>de condictione ſurtiva,</hi> by the com<g ref="char:EOLhyphen"/>mon Law, as it could not, for the Reaſons foreſaid, yet the Decreet being made up, it is in the ſame caſe, as if the thing ſtollen had been reſtored: In which caſe, it is clear by the Ci<g ref="char:EOLhyphen"/>vil Law, and common Senſe and Reaſon, That the Action <hi>ex condictione furtiva</hi> takes no place: So that <hi>Rothemay,</hi> either ignorantly or wilfully always miſtakes the caſe, as if he were in the caſe of a thing ſtoln and not reſtored. For ſuppoſe this had been a Thift, as it was not, (but if it had been true, it was a Crime of another nature:) Yet was it ever heard of, that when a Bond or other Write was ſtoln, if the Bonds and Writes were reſtored, or if cancelled, where the Tenor was made up, if in ſuch a caſe, either by the Civil Law, or any Law in the Chri<g ref="char:EOLhyphen"/>ſtian World, Action was ſuſtained againſt the Heir, for the away-taking or cancelling of the Papers, where the Papers were reſtored, or the Tenors made up, which is our caſe.</p>
+            <p n="6">6. <hi>Rothemay</hi> did expreſly found upon the forecited Law <hi>de condictione furtiva,</hi> in the Debate before the Lords of Seſſion; and the Lords found no ſpeciality in the caſe upon that account, the ſame being fully cleared to them as aforeſaid; but remitted the general Point to be deter<g ref="char:EOLhyphen"/>mined by the Parliament, How far an Heir can be lyable for Damnages ſuſtained by his Pre<g ref="char:EOLhyphen"/>deceſſors Deed, when the Crime was not cognoſced againſt the Predeceſſor in his own time; ſo that if the Parliament ſhould give an Interloquitor upon any pretended Speciality, it would not anſwer the general Queſtion, remitted by the Lords of Seſſion to be determined by the Parliament, the general Point being the only thing that was <gap reason="illegible" extent="6+ letters">
+                  <desc>••••••…</desc>
+               </gap>ed. And therefore what is now alledged be <hi>Rothemay,</hi> as to the pretended Theft, is no ſpeciality. And if this had been lookt upon as a Speciality, the Lords of Seſſion would have determined the Caſe them<g ref="char:EOLhyphen"/>ſelves, without remitting the ſame to the Parliament. And ſeing to Decide the Caſe upon a pretended Speciality, (where there is no Ground for it, and which is likewiſe fully cleared and taken off) would not anſwer the general Point remitted by the Lords of Seſſion. <hi>Mayen</hi> humbly craves, that his Grace His Majeſties High Commiſſioner, and Honourable Eſtates of Parliament, may give their Interloquitor upon the general Point remitted by the Lords of Seſſion, and Aſſoi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ȝie him from this groundleſs Purſuit: eſpecially ſeing it would be of a dan<g ref="char:EOLhyphen"/>gerous preparative to determine ſuch a Caſe upon alledged Specialities: for there is no caſe that can occur, but the Parties would always pretend ſome Speciality or other, neither is there any Speciality here ſuggeſted, or alledged in this caſe, but what is ſufficiently cleared and fully taken off.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
